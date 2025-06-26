@@ -6,28 +6,41 @@ A curated collection of machine learning projects spanning classification, NLP, 
 
 ## 📁 Repository Structure
 
-machinelearning_projects/
+GitHub markdown doesn't render folder structures properly using plain text with `│ ├──` characters unless it's inside a **code block**.
+
+To fix this, wrap your folder tree inside triple backticks (\`\`\`) with optional `text` or `bash` to maintain formatting:
+
+---
+
+### ✅ Correct Way:
+
+<pre lang="markdown"><code>
+```
+MachineLearning_Projects/
 │
 ├── Task 1 – Decision Tree/
-│ ├── decision_tree.ipynb # Model implementation & visualization
-│ ├── iris.csv # Dataset
-│ └── readme.txt # Objective & usage
+│   ├── decision_tree.ipynb        # Model implementation & visualization
+│   ├── iris.csv                   # Dataset
+│   └── readme.txt                 # Objective & usage
 │
 ├── Task 2 – Sentiment Analysis/
-│ ├── sentiment_analysis.ipynb
-│ ├── reviews.csv
-│ └── readme.txt
+│   ├── sentiment_analysis.ipynb
+│   ├── reviews.csv
+│   └── readme.txt
 │
 ├── Task 3 – CNN Image Classification/
-│ ├── cnn_image_classification.ipynb
-│ └── readme.txt
+│   ├── cnn_image_classification.ipynb
+│   └── readme.txt
 │
 ├── Task 4 – Recommendation System/
-│ ├── recommendation_system.ipynb
-│ ├── ratings.csv
-│ └── readme.txt
+│   ├── recommendation_system.ipynb
+│   ├── ratings.csv
+│   └── readme.txt
 │
-└── README.md # This file
+└── README.md                      # This file
+```
+</code></pre>
+
 
 ---
 
