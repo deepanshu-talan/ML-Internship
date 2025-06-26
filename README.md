@@ -1,4 +1,4 @@
-# 🤖 machinelearning_projects
+# 🤖 MachineLearning_Projects
 
 A curated collection of machine learning projects spanning classification, NLP, deep learning, and recommendation systems. Ideal for demonstrating practical skills in data science and AI.
 
