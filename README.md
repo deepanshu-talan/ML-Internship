@@ -102,6 +102,5 @@ Dataset **.csv** file
 ## Deepanshu Talan
 B.Tech – Computer Science (AI & ML)
 📥 deepanshutalan71@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/deepanshu-talan/)
 
 
